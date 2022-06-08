@@ -17,7 +17,7 @@
 - 자바에는 전역 변수가 존재하지 않으므로 인스턴스가 하나만 존재하도록 설계해야 하고 이에 접근 하는 방법을 제공
 
 ## 3. Class diagram
-
+  
 ![singleton](./../img/Singleton.PNG)
 
 
