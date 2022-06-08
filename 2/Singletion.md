@@ -18,7 +18,7 @@
 
 ## 3. Class diagram
 
-![singleton](https://github.com/ADRENALINEGENERATOR/DesignPattern-Java/blob/master/img/Singleton.png)
+![singleton](./../img/Singleton.PNG)
 
 
 ## 4. 객체 협력 (collaborations)
