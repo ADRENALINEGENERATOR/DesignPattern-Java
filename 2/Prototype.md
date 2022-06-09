@@ -150,9 +150,9 @@ public class PrototypeTest {
 		// 책장에 책들을 꼳을겁니다. 그러면 책장이지만 그 안에 책이라는 객체를 갇고 있는 복합 객체가 됩니다.
 		// 견본(샘플)
 		BookShelf bookShelf = new BookShelf();
-		bookShelf.add(new Book("조정래", "태백산맥"));
-		bookShelf.add(new Book("박완서", "나목"));
-		bookShelf.add(new Book("박경리", "토지"));
+		bookShelf.add(new Book("저자1", "책제목1"));
+		bookShelf.add(new Book("저자2", "책제목2"));
+		bookShelf.add(new Book("저자3", "책제목3"));
 		
 		// 복제를 할 때 자바에는 clone() 이라는 메서드가 Object 클래스에 있습니다. 그래서 자바의 모든 클래스는 Object 크래스를 상속을 받기 때문에 clone() 메서드를 사용할 수 있습니다.
 		
@@ -163,8 +163,8 @@ public class PrototypeTest {
 		 */
 		BookShelf another = (BookShelf) bookShelf.clone();
 		
-		bookShelf.getShelf().get(0).setAuthor("조정래");
-		bookShelf.getShelf().get(0).setTitle("한강");
+		bookShelf.getShelf().get(0).setAuthor("저자9999");
+		bookShelf.getShelf().get(0).setTitle("책제목9999");
 		
 		System.out.println(bookShelf);
 		System.out.println(another);
