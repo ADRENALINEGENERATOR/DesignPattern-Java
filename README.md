@@ -1,8 +1,8 @@
 # 디자인  패턴
 
-1. [디자인 패턴의 소개](#)
+1. [디자인 패턴의 소개](https://github.com/ADRENALINEGENERATOR/DesignPattern-Java/blob/master/1/README.md)
 
-2. [클래스의 인스턴스를 생성하는 여러가지 패턴들(Singleton, Protorype, Abstract Factory, Builder)](#)
+2. [클래스의 인스턴스를 생성하는 여러가지 패턴들(Singleton, Protorype, Abstract Factory, Builder)](https://github.com/ADRENALINEGENERATOR/DesignPattern-Java/blob/master/2/README.md)
 
 3. [하위 클래스에 위임하기(Template Method, Factory Method)](#) 
 
