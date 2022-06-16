@@ -4,7 +4,7 @@
 
 2. [클래스의 인스턴스를 생성하는 여러가지 패턴들(Singleton, Protorype, Abstract Factory, Builder)](https://github.com/ADRENALINEGENERATOR/DesignPattern-Java/blob/master/2/README.md)
 
-3. [하위 클래스에 위임하기(Template Method, Factory Method)](#) 
+3. [하위 클래스에 위임하기(Template Method, Factory Method)](https://github.com/ADRENALINEGENERATOR/DesignPattern-Java/blob/master/3/README.md)
 
 4. [기능의 선언과 구현을 분리하여 생각하기(Strategy, Bridge)](#)
 
