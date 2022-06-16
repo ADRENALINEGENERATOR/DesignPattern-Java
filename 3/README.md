@@ -4,4 +4,4 @@
 - [Template Method](https://github.com/ADRENALINEGENERATOR/DesignPattern-Java/blob/master/3/TemplateMethod.md)
 
 
-- [Factory Method](#)
+- [Factory Method](https://github.com/ADRENALINEGENERATOR/DesignPattern-Java/blob/master/3/FactoryMethod.md)
