@@ -6,7 +6,7 @@
 
 3. [하위 클래스에 위임하기(Template Method, Factory Method)](https://github.com/ADRENALINEGENERATOR/DesignPattern-Java/blob/master/3/README.md)
 
-4. [기능의 선언과 구현을 분리하여 생각하기(Strategy, Bridge)](#)
+4. [기능의 선언과 구현을 분리하여 생각하기(Strategy, Bridge)](https://github.com/ADRENALINEGENERATOR/DesignPattern-Java/tree/master/4)
 
 5. [동일시하기와 위임하기(Decorator, Composite)](#)
 
