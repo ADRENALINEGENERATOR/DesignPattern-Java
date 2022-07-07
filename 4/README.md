@@ -4,4 +4,4 @@
 - [Strategy](https://github.com/ADRENALINEGENERATOR/DesignPattern-Java/blob/master/4/StrategyPattern.md)
 
 
-- [Bridge](#)
+- [Bridge](https://github.com/ADRENALINEGENERATOR/DesignPattern-Java/blob/master/4/BridgePattern.md)
